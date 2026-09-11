@@ -23,27 +23,6 @@ The practical work was performed using Linux networking commands and an AWS EC2 
 
 ---
 
-# 📂 Repository Structure
-
-```text
-Day1-Linux-AWS-Networking/
-│
-├── README.md
-├── Day1_Tasks_Submission_Jayesh_Patil.pdf
-│
-├── screenshots/
-│   ├── task1/
-│   ├── task2/
-│   ├── task3/
-│   ├── task4/
-│   └── task5/
-│
-└── notes/
-    └── commands.md
-```
-
----
-
 # 🧪 Task 1 — Linux IP Investigation
 
 ## Objective
